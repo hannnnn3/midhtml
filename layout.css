@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    background-color: lightgreen;
+    color:white;
+    text-align: center;
+    margin:0px;
+    padding:20px;
+}
+nav{
+    background-color: #e5cad4;
+    text-align: center;
+}
+nav a{
+    padding:14px 16px;
+    display:inline-block
+}
+nav a:hover{
+    background-color: #cda8b8;
+    color:white;
+}
