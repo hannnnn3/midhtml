@@ -9,14 +9,21 @@ header{
     padding:20px;
 }
 nav{
-    background-color: #e5cad4;
+    background-color: lightyellow;
     text-align: center;
+    font-size: 25px;
 }
 nav a{
-    padding:14px 16px;
-    display:inline-block
+    padding:15px 20px;
+    display:inline-block;
+    text-decoration: none;
 }
 nav a:hover{
     background-color: #cda8b8;
     color:white;
+}
+
+.img_font1{
+    max-width: 400px;
+    max-height: 400px;
 }
